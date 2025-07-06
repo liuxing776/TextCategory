@@ -1,0 +1,24 @@
+{
+  "total_samples": 382200,
+  "num_classes": 15,
+  "avg_length": 22.835541601255887,
+  "max_length": 150,
+  "imbalance_ratio": 122.13529411764706,
+  "category_distribution": {
+    "news_tech": 41526,
+    "news_entertainment": 39374,
+    "news_sports": 37547,
+    "news_car": 35763,
+    "news_game": 29289,
+    "news_culture": 27937,
+    "news_finance": 27057,
+    "news_edu": 27016,
+    "news_world": 26890,
+    "news_military": 24964,
+    "news_travel": 21315,
+    "news_agriculture": 19283,
+    "news_house": 17661,
+    "news_story": 6238,
+    "stock": 340
+  }
+}

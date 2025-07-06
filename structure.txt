@@ -1,0 +1,16 @@
+├── config.py              # 配置文件
+├── data_processor.py      # 数据预处理
+├── models.py              # 模型定义
+├── trainer.py             # 训练器
+├── evaluator.py           # 评估器
+├── experiments/           # 实验脚本
+│   ├── 01_baseline.py     # 基线实验
+│   ├── 02_traditional_ml.py # 传统ML对比
+│   ├── 03_ablation.py     # 消融实验
+│   ├── 04_optimization.py # 优化实验
+│   └── 05_analysis.py     # 结果分析
+├── utils/                 # 工具函数
+│   ├── visualization.py  # 可视化工具
+│   └── metrics.py         # 评估指标
+├── run_all.py            # 一键运行脚本
+└── README.md             # 说明文档
